@@ -1,12 +1,12 @@
-title: John Smith
+title: DONG JUN
 description: My Personal Blog
-author: John Smith
-logo: /hcz-jekyll-blog/static/img/avatar.png
-github: https://github.com/codeasashu
+author: dongjun lee
+logo: /static/img/avatar.png
+github: https://github.com/djlee118
 about: Freelance developer
 
-baseurl: "https://codeasashu.github.io/hcz-jekyll-blog"
-url: "https://codeasashu.github.io/hcz-jekyll-blog"
+baseurl: "https://djlee118.github.io/"
+url: "https://djlee118.github.io/"
 
 allowsearch: true
 
